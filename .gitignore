@@ -4,8 +4,17 @@
 # Log file
 *.log
 
+# Maven files
+target/
+
 # BlueJ files
 *.ctxt
+
+# Eclipse files
+.settings/
+.project/
+.classpath
+.DS_Store
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
