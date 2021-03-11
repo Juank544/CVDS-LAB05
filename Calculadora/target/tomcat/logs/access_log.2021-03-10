@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:18 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 200 4360 http-bio-8080-exec-1 1499
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:22 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 500 2130 http-bio-8080-exec-4 66
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:34 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 200 4359 http-bio-8080-exec-3 39
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:38 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 500 2130 http-bio-8080-exec-6 56
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:44 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 500 2130 http-bio-8080-exec-7 94
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:49 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 500 2130 http-bio-8080-exec-8 39
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:56 -0500] "GET /index.html HTTP/1.1" 404 971 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:57:58 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 200 4360 http-bio-8080-exec-9 24
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:58:03 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 200 4359 http-bio-8080-exec-1 16
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:58:13 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 200 2305 http-bio-8080-exec-10 88
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:23:58:15 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 200 2304 http-bio-8080-exec-1 37

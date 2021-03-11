@@ -1,0 +1,3 @@
+10.Si todo funciono correctamente, realice las siguientes pruebas:
+b) Se obtienen los mismos valores
+c)No se ve una gran diferencia entre @session y @applicationscope, solo que al momento de refrescar la página de incognito salía error, pero se soluciono escribiendo el link nuevamente
